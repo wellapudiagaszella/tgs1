@@ -1,2 +1,2 @@
-# tgs1
-wella
+# webservice
+Proyek kuliah web service
